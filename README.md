@@ -15,6 +15,7 @@ working with include C#, dot net and angular
         "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
         ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
         "Software Engineering Practices",       "Clean Code",               "Unit Testing",
+        "GraphQl", "SignalR"
         "Clean Architecture",                   "Cloud Computing",          "Problem Solving",
         "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
         "SQL",                                  "Git",                      "CQRS",
